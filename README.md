@@ -3,6 +3,7 @@
 
 ## Liens vers les tutos
 Tuto 1 : (https://makecode.microbit.org/#tutorial:github:dudleysmith/tic-tac-boom/tutorial)
+Tuto 2 : (https://makecode.microbit.org/#recipe:github:dudleysmith/tic-tac-boom/tutorial)
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/dudleysmith/tic-tac-boom/workflows/MakeCode/badge.svg)
 Éditer ce dépôt dans MakeCode.
