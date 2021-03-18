@@ -9,5 +9,9 @@ Si la balle reste à terre trop longtemps, vous avez perdu !!!!
 ## Pour modifier les mélodies
 Intervertir les briques Orange avec d'autres
 
+![Mélodie 1](/Melodie1.png)
+![Mélodie 2](/Melodie2.png)
+
 ## Pour modifier le timing
 Modifier le code dans la fonction "Relancer Compteur"
+![Timing](/Timing.png)
