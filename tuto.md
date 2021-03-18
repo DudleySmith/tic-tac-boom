@@ -28,3 +28,5 @@ Remplacer les valeurs dans cette brique mathématique
 ```blocks
 Compteur = randint(7, 15)
 ```
+
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
