@@ -2,8 +2,8 @@
 > Ouvrir cette page à [https://dudleysmith.github.io/tic-tac-boom/](https://dudleysmith.github.io/tic-tac-boom/)
 
 ## Liens vers les tutos
-Tuto 1 : (https://makecode.microbit.org/#tutorial:github:dudleysmith/tic-tac-boom/tutorial)
-Tuto 2 : (https://makecode.microbit.org/#recipe:github:dudleysmith/tic-tac-boom/tutorial)
+Tuto 1 : (https://makecode.microbit.org/#tutorial:github:dudleysmith/tic-tac-boom/tuto)
+Tuto 2 : (https://makecode.microbit.org/#recipe:github:dudleysmith/tic-tac-boom/tuto)
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/dudleysmith/tic-tac-boom/workflows/MakeCode/badge.svg)
 Éditer ce dépôt dans MakeCode.
@@ -11,8 +11,6 @@ Tuto 2 : (https://makecode.microbit.org/#recipe:github:dudleysmith/tic-tac-boom/
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
 * collez **https://github.com/dudleysmith/tic-tac-boom** et cliquez sur importer
-
-
 
 ## Aperçu des blocs
 Cette section montre le code des blocs du dernier commit dans la branche master.
