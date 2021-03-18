@@ -1,25 +1,19 @@
 
 > Ouvrir cette page à [https://dudleysmith.github.io/tic-tac-boom/](https://dudleysmith.github.io/tic-tac-boom/)
 
-## Utiliser comme extension
-
-Ce dépôt peut être ajouté en tant qu'**extension** dans MakeCode.
-
-* ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* cliquez sur **Nouveau projet**
-* cliquez sur **Extensions** dans le menu engrenage
-* recherchez **https://github.com/dudleysmith/tic-tac-boom** et importez
+## Liens vers les tutos
+Tuto 1 : (https://makecode.microbit.org/#tutorial:github:dudleysmith/tic-tac-boom/tutorial)
 
 ## Éditer ce projet ![Badge du statut de la compilation](https://github.com/dudleysmith/tic-tac-boom/workflows/MakeCode/badge.svg)
-
 Éditer ce dépôt dans MakeCode.
 
 * ouvrir [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * cliquez sur **Importer** puis cliquez sur **Importer l'URL **
 * collez **https://github.com/dudleysmith/tic-tac-boom** et cliquez sur importer
 
-## Aperçu des blocs
 
+
+## Aperçu des blocs
 Cette section montre le code des blocs du dernier commit dans la branche master.
 Cette image peut prendre quelques minutes pour être actualisée.
 
