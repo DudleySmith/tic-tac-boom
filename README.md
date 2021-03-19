@@ -15,3 +15,10 @@ Intervertir les briques Orange avec d'autres
 ## Pour modifier le timing
 Modifier le code dans la fonction "Relancer Compteur"
 ![Timing](/Timing.png)
+
+## Pour télécharger
+Appuyer sur le bouton "télécharger" sous l'émulateur
+Copier / Uploader le fichier.hex dans la carte Micro::bit (Celle ci apparait dans l'explorateur de fichier sous le nom MICROBIT)
+
+<img src="/Simulateur.jpg"/>
+<img src="/TelechargerIci.jpg"/>
