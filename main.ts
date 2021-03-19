@@ -1,6 +1,3 @@
-input.onButtonPressed(Button.A, function () {
-    RelancerCompteur()
-})
 radio.onReceivedString(function (receivedString) {
     if (receivedString.compare("Relancer") == 0) {
         RelancerCompteur()
@@ -8,9 +5,10 @@ radio.onReceivedString(function (receivedString) {
 })
 input.onGesture(Gesture.Shake, function () {
     radio.sendString("Relancer")
+    RelancerCompteur()
 })
 function RelancerCompteur () {
-    Compteur = randint(7, 15)
+    Compteur = 9
 }
 let Compteur = 0
 radio.setGroup(1)
